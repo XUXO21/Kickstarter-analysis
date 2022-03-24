@@ -14,4 +14,9 @@ Performing Analysis on Kickstarter data to discover trends
 * For Plays is 81
 ---
 ### When and for how long to have the crowdfunding
-* In us most succesfull crowdfundind occurs on May-Jun
+* In us most succesfull crowdfundind for plays un US occurs on May-Jun
+![Monthy US Trend](MONTHSUS.png)
+* In average succesfull crowdfunding campaigns have a duration of 29 days
+---
+### References and Other Markets
+* Inspiration Play Foresight had a Objetive of 2k dls, achieved 100% founding with an over the average donation per baker of $117 dls and a duration of 24 days.
