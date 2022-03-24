@@ -20,3 +20,7 @@ Performing Analysis on Kickstarter data to discover trends
 ---
 ### References and Other Markets
 * Inspiration Play Foresight had a Objetive of 2k dls, achieved 100% founding with an over the average donation per baker of $117 dls and a duration of 24 days.
+* Edinburg plays that also were inspiration achieved their goals with an average Goal of $2,100 and pledeged $2,384 and they had an average donation of $40 dls and an average of 62 bakers
+![Monthy US Trend](/Screen%20Shot%202022-03-23%20at%2022.45.17.png)
+---
+### Learnings form succesful and failed Kickstarters
