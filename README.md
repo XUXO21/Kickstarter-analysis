@@ -24,3 +24,11 @@ Performing Analysis on Kickstarter data to discover trends
 ![Monthy US Trend](/Screen%20Shot%202022-03-23%20at%2022.45.17.png)
 ---
 ### Learnings form succesful and failed Kickstarters
+* Average Goal for succesfull kickstarter campagins is $5k dls while failed are on $10k, the double.
+* Median for succesful ones is $3k 
+---
+### Recomendation
+* Lower Goal of Fever to $5k and run two crowdfundings
+* Do not extend the campaign for more than 30 days
+* Start the 1st campaign on May abd the second on Agust or November
+ 
